@@ -1,0 +1,33 @@
+que es un algoritmo
+
+una secuencia de pasos ordenados para solucionar un problema
+
+
+que es pseudocodigo
+
+es una forma de representar el codigo es una secuencia que  no es realme ejecutable
+
+que un problema
+
+es hallar un dato desconocido apartir de otros datos conocidos
+
+los algoritmo tienen entradas proceso y salida esas son sus caracteristicas los algoritmos dene ser precisos
+
+los algoritmos tienen que tener un principio y un fin
+
+los identificadore son los nombres que se le asignan a un elemento para poderlos identificar 
+
+variavles es una representacion alfanumerica que podes almacenar en ram
+
+contastes es un elemento parecido a una variable pero en este caso no cambia ningun el valor en ninguna parte del programa
+
+palabra reservada para el sistema son utilizados elementos reservados del programa del lenguaje que son utilizados para hacer una tarea especifica
+
+partes fundamentales de una variable
+
+declarar el nombre y el tipo de dato
+
+inciacion de debe de dar un valor o inicializarla
+
+utilizacion se utila la variable o constante en el algortimo
+
