@@ -9,7 +9,7 @@ es una forma de representar el codigo es una secuencia que  no es realme ejecuta
 
 que un problema
 
-es hallar un dato desconocido apartir de otros datos conocidos
+es hallar  un dato desconocido apartir de otros datos conocidos
 
 los algoritmo tienen entradas proceso y salida esas son sus caracteristicas los algoritmos dene ser precisos
 
